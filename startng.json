@@ -1,0 +1,7 @@
+{
+  "leaderboard": {
+    "stats": [
+      { "key": "orbs", "label": "Orbs collected", "order": "highest" }
+    ]
+  }
+}
